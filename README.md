@@ -1,6 +1,6 @@
 # AptServer
 
-AptServer es script Google Sheet publicado como servicio Web. Permite exponer un archivo Sheet como "Base de datos" mediante una interfaz similar a un accesso REST.
+AptServer es un script Google Sheet publicado como servicio Web. Permite exponer un archivo Sheet como "Base de datos" mediante una interfaz similar a un accesso REST.
 
 Para funcionar el proyecto AptServer tiene que ser `publicado como un servicio Web`.
 
